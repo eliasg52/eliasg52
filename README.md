@@ -13,12 +13,12 @@
 
 ```javascript
 const aboutMe = {
-  languages: ['spanish' , 'english']//comprehension and reading
+  languages: ['spanish', 'english'], //comprehension and reading of english
   code: [Javascript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
       js: ['VanillaJS', 'POO', 'APIREST', 'UnitTests'],
-      css: ['VanillaCSS','Materialize', 'Bootstrap'],
+      css: ['VanillaCSS', 'Materialize', 'Bootstrap'],
     },
     backEnd: {
       python: ['Flask', 'POO'],
@@ -27,7 +27,7 @@ const aboutMe = {
     versionControl: ['Git', 'Github'],
     IDE: ['VSCode'],
     operatingSystem: ['Windows'],
-    softSkills: ['Problem Solving', 'TeamWork', 'Communication'],
+    softSkills: ['ProblemSolving', 'TeamWork', 'Communication', 'QuickLearner'],
   },
   currentOccupation: ['Seller, open for job opportunities'],
 };
