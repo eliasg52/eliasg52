@@ -6,7 +6,7 @@
 - 🤓 Profundizando mas en JS todos los dias para despues poder dominar frameworks tipo React facilmente.
 - ⚡ En construccion de mi Portfolio, primeros proyectos:
 
-  [TO-DO-APP](https://eliasg52.github.io/Proyectos/ToDo-App/)||
+  [TO-DO-APP](https://eliasg52.github.io/Proyectos/ToDo-App/) ||
   [APLICACION-GASTOS](https://miappdegastos.netlify.app/)
 
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
