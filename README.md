@@ -5,8 +5,10 @@
 - 🐍 Estudiando Python de forma autodidacta para el backend ya que tengo conomiento de Frontend en JS.
 - 🤓 Profundizando mas en JS todos los dias para despues poder dominar frawekorks tipo React facilmente.
 - ⚡ En construccion de mi Portfolio, primeros proyectos:
+
   [TO-DO-APP](https://eliasg52.github.io/Proyectos/ToDo-App/)
   [APLICACION-GASTOS](https://miappdegastos.netlify.app/)
+
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
   [Gmail](mailto:eliasgarcia81@gmail.com) ||
   [WhatsApp](https://api.whatsapp.com/send?phone=541165775596&text=Hola%20como%20estas?%20Apreta%20en%20el%20enlace%20para%20contactarme!)
