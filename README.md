@@ -17,7 +17,7 @@ const aboutMe = {
   code: [Javascript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
-      js: ['VanillaJS', 'POO', 'APIREST'],
+      js: ['VanillaJS', 'POO', 'APIREST', 'UnitTests'],
       css: ['VanillaCSS','Materialize', 'Bootstrap'],
     },
     backEnd: {
@@ -25,7 +25,7 @@ const aboutMe = {
     },
     databases: ['mySQL', 'sql'],
     versionControl: ['Git', 'Github'],
-    IDE: ['VSCode']
+    IDE: ['VSCode'],
     operatingSystem: ['Windows'],
     softSkills: ['Problem Solving', 'TeamWork', 'Communication'],
   },
