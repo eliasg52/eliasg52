@@ -22,7 +22,7 @@ const aboutMe = {
       css: ['VanillaCSS', 'Materialize', 'Bootstrap'],
     },
     backEnd: {
-      python: ['Flask', 'POO'],
+      Node: ['Express', 'NPM'],
     },
     databases: ['mySQL', 'sql'],
     versionControl: ['Git', 'Github'],
