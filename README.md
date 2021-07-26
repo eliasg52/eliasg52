@@ -6,7 +6,10 @@
 - 🤓 Profundizando mas en JS todos los dias para despues poder dominar frameworks tipo React facilmente.
 - ⚡ En construccion de mi Portfolio, primeros proyectos:
   [TO-DO-APP](https://eliasg52.github.io/Proyectos/ToDo-App/) ||
-  [APLICACION-GASTOS](https://miappdegastos.netlify.app/)
+  [APLICACION-GASTOS](https://miappdegastos.netlify.app/) ||
+  [SIMON-SAYS](https://eliasg52.github.io/Ejercicios-de-R-Argentina-Programa/Clase10-Simon/) ||
+  [MAQUETADO LOGIN](https://eliasg52.github.io/Login/) ||
+  [CURRICULUM-ONLINE](https://eliasg52.github.io/Curriculum-Online/index.html)
 
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
   [Gmail](mailto:eliasgarcia81@gmail.com) ||
