@@ -13,16 +13,16 @@
 
 ```javascript
 const aboutMe = {
-  languages: ['spanish', 'english'], //comprehension and reading of english
+  languages: ['spanish', 'english'],
   code: [Javascript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
       js: ['VanillaJS', 'OOP', 'APIREST', 'UnitTests', 'Typescript'],
       css: ['VanillaCSS', 'Materialize', 'Bootstrap', 'TalwindCSS'],
-      frameworks: ['ReactJS', 'Sveltekit'],
+      jsFrameworks: ['ReactJS', 'Sveltekit'],
     },
     backEnd: {
-      Node: ['Express', 'NPM'],
+      node: ['Express', 'NPM'],
     },
     databases: ['mySQL', 'sql', 'MongoDB'],
     versionControl: ['Git', 'Github'],
