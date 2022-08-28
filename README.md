@@ -9,7 +9,7 @@
 - 🏢 Compañias que forme parte:
   [Indigo Balance](https://indigobalance.com/) ||
   [OMNI Labs](https://omnilabs.tech/) ||
-  [Liven Vc.](https://liven.vc/) ||
+  [Liven Vc.](https://liven.vc/)
 
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
   [Gmail](mailto:eliasgarcia81@gmail.com) ||
