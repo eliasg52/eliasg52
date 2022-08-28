@@ -17,16 +17,16 @@ const aboutMe = {
   code: [Javascript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
-      js: ['VanillaJS', 'OOP', 'APIREST', 'UnitTests', Typescript],
-      css: ['VanillaCSS', 'Materialize', 'Bootstrap', TalwindCSS],
-      frameworks: ['React, Sveltekit'],
+      js: ['VanillaJS', 'OOP', 'APIREST', 'UnitTests', 'Typescript'],
+      css: ['VanillaCSS', 'Materialize', 'Bootstrap', 'TalwindCSS'],
+      frameworks: ['ReactJS', 'Sveltekit'],
     },
     backEnd: {
       Node: ['Express', 'NPM'],
     },
     databases: ['mySQL', 'sql', 'MongoDB'],
     versionControl: ['Git', 'Github'],
-    IDE: ['VSCode'],
+    otherTechs: ['VSCode', 'Figma', 'Appwrite', 'Strapi', 'Jira', 'Scrum'],
     operatingSystem: ['Windows'],
     softSkills: ['ProblemSolving', 'TeamWork', 'Communication', 'QuickLearner'],
   },
