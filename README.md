@@ -6,6 +6,10 @@
 - 🤓 Aprendiendo nuevas tecnologias constantemente.
 - 💛 Entusiasta de todo el ecosistema de Javascript.
 - ⚛  React es mi framework favorito!
+- 🏢 Compañias que forme parte:
+  [Indigo Balance](https://indigobalance.com/) ||
+  [OMNI Labs](https://omnilabs.tech/) ||
+  [Liven Vc.](https://liven.vc/) ||
 
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
   [Gmail](mailto:eliasgarcia81@gmail.com) ||
