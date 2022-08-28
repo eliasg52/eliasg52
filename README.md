@@ -2,14 +2,10 @@
 
 - <img src="https://i.pinimg.com/originals/10/b5/53/10b553debe94c2bf0db01f062cf93308.gif" width="370" height="240" align="right"/> 💬 SobreMi: Apasionado por la tecnologia,el cine y mis perras 🐶.
 - 🔍 Me encanta aprender y poder contribuir en cualquier aspecto. Trabaje muchos años en atencion al cliente por lo que se manejarme con un equipo y tratar con clientes.
-- 🐍 Estudiando Node de forma autodidacta para el backend ya que tengo conocimiento de Frontend en JS.
-- 🤓 Profundizando mas en JS todos los dias.
-- ⚡ En construccion de mi Portfolio, primeros proyectos:
-  [TO-DO-APP](https://eliasg52.github.io/Proyectos/ToDo-App/) ||
-  [APLICACION-GASTOS](https://miappdegastos.netlify.app/) ||
-  [SIMON-SAYS](https://eliasg52.github.io/Ejercicios-de-R-Argentina-Programa/Clase10-Simon/) ||
-  [MAQUETADO LOGIN](https://eliasg52.github.io/Login/) ||
-  [CURRICULUM-ONLINE](https://eliasg52.github.io/Curriculum-Online/index.html)
+- 🧹 Me gustan todos los conceptos de Clean Code e intento implementarlos siempre que puedo.
+- 🤓 Aprendiendo nuevas tecnologias constantemente.
+- 💛 Entusiasta de todo el ecosistema de Javascript.
+- ⚛  React es mi framework favorito!
 
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/eliasg52) ||
   [Gmail](mailto:eliasgarcia81@gmail.com) ||
@@ -21,18 +17,18 @@ const aboutMe = {
   code: [Javascript, HTML, CSS, Python],
   technologies: {
     frontEnd: {
-      js: ['VanillaJS', 'POO', 'APIREST', 'UnitTests'],
-      css: ['VanillaCSS', 'Materialize', 'Bootstrap'],
+      js: ['VanillaJS', 'OOP', 'APIREST', 'UnitTests', Typescript],
+      css: ['VanillaCSS', 'Materialize', 'Bootstrap', TalwindCSS],
+      frameworks: ['React, Sveltekit'],
     },
     backEnd: {
       Node: ['Express', 'NPM'],
     },
-    databases: ['mySQL', 'sql'],
+    databases: ['mySQL', 'sql', 'MongoDB'],
     versionControl: ['Git', 'Github'],
     IDE: ['VSCode'],
     operatingSystem: ['Windows'],
     softSkills: ['ProblemSolving', 'TeamWork', 'Communication', 'QuickLearner'],
   },
-  currentOccupation: ['Seller, open for job opportunities'],
 };
 ```
