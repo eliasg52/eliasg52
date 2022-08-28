@@ -27,7 +27,7 @@ const aboutMe = {
     databases: ['mySQL', 'sql', 'MongoDB'],
     versionControl: ['Git', 'Github'],
     otherTechs: ['VSCode', 'Figma', 'Appwrite', 'Strapi', 'Jira', 'Scrum'],
-    operatingSystem: ['Windows'],
+    operatingSystem: ['Windows', 'Linux'],
     softSkills: ['ProblemSolving', 'TeamWork', 'Communication', 'QuickLearner'],
   },
 };
