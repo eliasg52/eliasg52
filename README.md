@@ -86,4 +86,4 @@
 
 ---
 
-🔥 *Looking for opportunities to build amazing mobile experiences and scale impactful products!* 🚀
+🔥 *Looking for opportunities to build amazing mobile/web experiences and scale impactful products!* 🚀
