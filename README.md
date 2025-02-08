@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 **Frontend**  
 💻 React Native, React.js, SvelteKit, TypeScript, JavaScript, Ionic  
@@ -52,16 +52,33 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Developer Mindset  
+
+- 💡 **Keep it simple** – Simple code is better than clever code.  
+- 🏆 **Performance matters** – Every millisecond counts.  
+- 🛠️ **Tools are just tools** – The mindset behind them is what truly matters.  
+- 📚 **Always be learning** – Tech evolves, and so do I!  
+
+---
+
+## 🎉 Fun Facts About Me  
+
+- 🎬 Huge **movie geek**, I love sci-fi and thrillers.  
+- 🐶 Dog lover – I have two amazing dogs! 🐕  
+- 🎮 Enjoy playing video games in my free time.  
+- 🍕 Pizza is the ultimate fuel for coding.  
+
+---
+
+## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasg52&show_icons=true&theme=radical" width="420"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasg52&theme=radical" width="420"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Garcia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eliasg52/)  
 [![GitHub](https://img.shields.io/badge/GitHub-eliasg52-black?style=for-the-badge&logo=github)](https://github.com/eliasg52)  
