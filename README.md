@@ -72,7 +72,6 @@
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=eliasg52&theme=radical)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=eliasg52&theme=radical" width="420"/>
 </p>
